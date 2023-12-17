@@ -44,10 +44,10 @@ namespace WindowsGSM.Plugins
 
 
         // - Game server default values
-        public string Port = "2456"; // Default port
-        public string QueryPort = "2457"; // Default query port
+        public string Port = "33540"; // Default port
+        public string QueryPort = "27040"; // Default query port
         public string Defaultmap = "Dedicated"; // Default map name
-        public string Maxplayers = "10"; // Default maxplayers
+        public string Maxplayers = "24"; // Default maxplayers
         public string Additional = "-s server_config=server_config.cfg"; // Additional server start parameter
 
 
