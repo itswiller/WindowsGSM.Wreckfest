@@ -21,7 +21,7 @@ namespace WindowsGSM.Plugins
             author = "itsWillertime",
             description = "WindowsGSM plugin for supporting Wreckfest Dedicated Server",
             version = "1.0",
-            url = "https://github.com/dkdue/WindowsGSM.Valheim", // Github repository link (Best practice)
+            url = "https://github.com/itswiller/WindowsGSM.Wreckfest", // Github repository link (Best practice)
             color = "#34c9eb" // Color Hex
         };
 
